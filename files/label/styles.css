@@ -1,0 +1,43 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:160px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u210_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:24px;
+}
+#u210 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:140px;
+  height:24px;
+  font-family:'Helvetica';
+  font-weight:400;
+  font-style:normal;
+  text-align:right;
+  line-height:24px;
+}
+#u211 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  word-wrap:break-word;
+}
